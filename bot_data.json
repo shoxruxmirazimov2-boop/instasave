@@ -1,0 +1,19 @@
+{
+  "users": {
+    "1026816624": {
+      "username": "Real_otto",
+      "first_name": "OTTO",
+      "last_name": "",
+      "language_code": "en"
+    }
+  },
+  "stats": {
+    "requests": 1,
+    "videos_sent": 1,
+    "broadcasts": 0
+  },
+  "required_channels": [],
+  "contact_text": "@insta_savevideosbot",
+  "pending": {},
+  "required_channel": ""
+}
